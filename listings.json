@@ -1,0 +1,92 @@
+[
+    {
+        "Neighborhood": "Downtown Loft District",
+        "Price": 500000,
+        "Bedrooms": 2,
+        "Bathrooms": 1,
+        "House Size": "1500 sqft",
+        "Description": "Live in the heart of the city in this modern loft located in the vibrant Downtown Loft District. This 2-bedroom, 1-bathroom loft features high ceilings, exposed brick walls, and large windows with stunning city views. The open floor plan is perfect for entertaining, and the building offers a rooftop terrace for residents to enjoy. Experience urban living at its finest in this Downtown gem.",
+        "Neighborhood Description": "The Downtown Loft District is a bustling neighborhood filled with art galleries, restaurants, and boutiques. Enjoy easy access to public transportation and walk to nearby attractions like the City Museum and local theaters."
+    },
+    {
+        "Neighborhood": "Suburban Paradise",
+        "Price": 700000,
+        "Bedrooms": 4,
+        "Bathrooms": 3,
+        "House Size": "3000 sqft",
+        "Description": "Escape to this suburban paradise nestled in a quiet neighborhood. This 4-bedroom, 3-bathroom home features a spacious backyard with a pool, perfect for summer gatherings. The interior boasts a gourmet kitchen, cozy fireplace, and luxurious master suite. Enjoy the peace and tranquility of suburban living in this beautiful home.",
+        "Neighborhood Description": "Suburban Paradise offers a serene escape from the hustle and bustle of the city. Enjoy nearby parks, top-rated schools, and easy access to shopping and dining options."
+    },
+    {
+        "Neighborhood": "Waterfront Retreat",
+        "Price": 900000,
+        "Bedrooms": 3,
+        "Bathrooms": 2,
+        "House Size": "2500 sqft",
+        "Description": "Relax in this waterfront retreat with stunning views of the lake. This 3-bedroom, 2-bathroom home features a private dock, outdoor patio, and spacious living areas. The master suite offers panoramic lake views, while the updated kitchen is perfect for entertaining. Experience waterfront living at its best in this serene retreat.",
+        "Neighborhood Description": "The Waterfront Retreat neighborhood is known for its peaceful atmosphere and scenic views. Enjoy boating, fishing, and water activities right in your backyard."
+    },
+    {
+        "Neighborhood": "Historic District",
+        "Price": 600000,
+        "Bedrooms": 3,
+        "Bathrooms": 2,
+        "House Size": "2000 sqft",
+        "Description": "Step back in time in this charming historic home located in the Historic District. This 3-bedroom, 2-bathroom home features original hardwood floors, period details, and a cozy fireplace. The wrap-around porch is perfect for enjoying morning coffee or relaxing in the evenings. Embrace the character and charm of this historic gem.",
+        "Neighborhood Description": "The Historic District is a picturesque neighborhood filled with tree-lined streets, historic architecture, and quaint shops. Take a stroll through the historic district and admire the beautifully preserved homes."
+    },
+    {
+        "Neighborhood": "Family-Friendly Suburb",
+        "Price": 800000,
+        "Bedrooms": 5,
+        "Bathrooms": 3,
+        "House Size": "3500 sqft",
+        "Description": "Settle down in this spacious family-friendly home located in a quiet suburb. This 5-bedroom, 3-bathroom home features a large backyard, open concept kitchen, and bonus room perfect for a home office or playroom. The neighborhood is known for its top-rated schools and community events, making it the perfect place to raise a family.",
+        "Neighborhood Description": "The Family-Friendly Suburb neighborhood is a close-knit community with parks, playgrounds, and family-friendly activities. Enjoy a quiet and safe environment with easy access to shopping and dining options."
+    },
+    {
+        "Neighborhood": "Luxury Condo Tower",
+        "Price": 1200000,
+        "Bedrooms": 2,
+        "Bathrooms": 2,
+        "House Size": "1800 sqft",
+        "Description": "Live in luxury in this sleek condo located in the prestigious Luxury Condo Tower. This 2-bedroom, 2-bathroom condo features high-end finishes, floor-to-ceiling windows, and a private balcony with city views. The building offers top-notch amenities including a rooftop pool, fitness center, and concierge services. Experience the epitome of luxury living in this exclusive condo tower.",
+        "Neighborhood Description": "The Luxury Condo Tower neighborhood is known for its upscale living and convenient location. Enjoy easy access to fine dining, shopping, and entertainment options in the heart of the city."
+    },
+    {
+        "Neighborhood": "Mountain View Estates",
+        "Price": 1000000,
+        "Bedrooms": 4,
+        "Bathrooms": 3,
+        "House Size": "2800 sqft",
+        "Description": "Enjoy breathtaking mountain views in this spacious estate located in Mountain View Estates. This 4-bedroom, 3-bathroom home features a gourmet kitchen, outdoor living spaces, and a luxurious master suite. The expansive backyard is perfect for outdoor entertaining and enjoying the natural beauty of the surroundings. Experience luxury living in the mountains in this stunning estate.",
+        "Neighborhood Description": "Mountain View Estates offers a peaceful retreat with panoramic mountain views and access to hiking trails and outdoor activities. Enjoy a serene and tranquil environment surrounded by nature."
+    },
+    {
+        "Neighborhood": "Golf Course Community",
+        "Price": 850000,
+        "Bedrooms": 3,
+        "Bathrooms": 2,
+        "House Size": "2200 sqft",
+        "Description": "Live in luxury in this golf course community home overlooking the fairway. This 3-bedroom, 2-bathroom home features a gourmet kitchen, spacious living areas, and a private backyard with golf course views. The community offers golf privileges, clubhouse access, and community events for residents to enjoy. Experience resort-style living in this golf course community.",
+        "Neighborhood Description": "The Golf Course Community is a prestigious neighborhood known for its golf amenities and upscale living. Enjoy the convenience of golf course living with easy access to shopping and dining options."
+    },
+    {
+        "Neighborhood": "Lakefront Oasis",
+        "Price": 950000,
+        "Bedrooms": 4,
+        "Bathrooms": 3,
+        "House Size": "3200 sqft",
+        "Description": "Escape to this lakefront oasis with stunning views of the water. This 4-bedroom, 3-bathroom home features a private dock, outdoor patio, and spacious living areas perfect for entertaining. The master suite offers panoramic lake views, while the backyard is ideal for enjoying outdoor activities. Experience waterfront living at its best in this serene oasis.",
+        "Neighborhood Description": "The Lakefront Oasis neighborhood is a peaceful retreat with access to boating, fishing, and water activities. Enjoy the tranquility and natural beauty of lakefront living."
+    },
+    {
+        "Neighborhood": "Riverside Cottage",
+        "Price": 750000,
+        "Bedrooms": 3,
+        "Bathrooms": 2,
+        "House Size": "2000 sqft",
+        "Description": "Live by the riverside in this charming cottage located along the riverbank. This 3-bedroom, 2-bathroom home features a cozy fireplace, screened porch, and beautiful views of the river. The backyard offers a peaceful retreat with a private dock and outdoor seating areas. Experience riverside living in this quaint cottage.",
+        "Neighborhood Description": "The Riverside Cottage neighborhood is a serene escape with access to river activities like kayaking, fishing, and nature walks. Enjoy the peaceful surroundings and natural beauty of riverside living."
+    }
+]

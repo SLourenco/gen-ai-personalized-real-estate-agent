@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How big do you want your house to be?",
+    "answer": "A comfortable three-bedroom house with a spacious kitchen and a cozy living room."
+  },
+  {
+    "question": "What are 3 most important things for you in choosing this property?",
+    "answer": "A quiet neighborhood, good local schools, and convenient shopping options."
+  },
+  {
+    "question": "Which amenities would you like?",
+    "answer": "A backyard for gardening, a two-car garage, and a modern, energy-efficient heating system."
+  },
+  {
+    "question": "Which transportation options are important to you?",
+    "answer": "Easy access to a reliable bus line, proximity to a major highway, and bike-friendly roads."
+  },
+  {
+    "question": "How urban do you want your neighborhood to be?",
+    "answer": "A balance between suburban tranquility and access to urban amenities like restaurants and theaters."
+  }
+]
